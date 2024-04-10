@@ -1,0 +1,15 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "web server application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adrian gonzalez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianGonzalez878/IT122.git"
+  }
+}
